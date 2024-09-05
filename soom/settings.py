@@ -41,6 +41,12 @@ INSTALLED_APPS = [
     'rest_framework',
     
     'main',
+    'course',
+    'diary',
+    'mypage',
+    'place',
+    'user',
+    'wish',
 ]
 
 MIDDLEWARE = [
